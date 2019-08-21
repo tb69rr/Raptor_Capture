@@ -1,1 +1,11 @@
 
+RAPTOR  CAPTURE requires an additional module to be added to GNU Radio. This module can be foun d at
+https://github.com/tkuester/gr-reveng
+the page includes all steps needed to add this module.
+
+Raptor Captor will list the binary output of ford key fobs in the 902 and 903 Mhz range.
+Other tools that will assist in decrypting Ford keyfobs include:
+Inspectrum (Mike the author is a Genius)
+Universal Radio Hacker (URH)
+
+I will add more notes shortly.
